@@ -1,4 +1,3 @@
-
 (executables
  (public_names owlviz)
  (names owl_bin_viz)
